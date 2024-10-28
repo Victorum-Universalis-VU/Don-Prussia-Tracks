@@ -1,0 +1,24 @@
+#Don & Prussia Tracks
+song = {
+    name = "isengrad_theme"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+song = {
+    name = "battle_of_pelennor_fields"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+############
