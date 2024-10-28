@@ -1,0 +1,10 @@
+music = {
+	name = "battle_of_pelennor_fields"
+	file = "battle_of_pelennor_fields.ogg"
+}
+
+music = {
+	name = "isengrad_theme"
+	file = "isengrad_theme.ogg"
+}
+
