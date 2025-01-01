@@ -8,3 +8,68 @@ music = {
 	file = "isengrad_theme.ogg"
 }
 
+#New Prussia Tracks
+music = {
+	name = "albanian_song_hakmarrje_rini"
+	file = "albanian_song_hakmarrje_rini.ogg"
+}
+
+music = {
+	name = "all_hail_britannia"
+	file = "all_hail_britannia.ogg"
+}
+
+music = {
+	name = "an_arlach"
+	file = "an_arlach.ogg"
+}
+
+music = {
+	name = "brian_blessed"
+	file = "brian_blessed.ogg"
+}
+
+music = {
+	name = "chevalier_mult_estes_guariz"
+	file = "chevalier_mult_estes_guariz.ogg"
+}
+
+music = {
+	name = "come_out_ye_black_and_tans"
+	file = "come_out_ye_black_and_tans.ogg"
+}
+
+music = {
+	name = "greek_kids_singing"
+	file = "greek_kids_singing.ogg"
+}
+
+music = {
+	name = "house_of_the_rising_sun"
+	file = "house_of_the_rising_sun.ogg"
+}
+
+music = {
+	name = "le_roy_engloys"
+	file = "le_roy_engloys.ogg"
+}
+
+music = {
+	name = "les_terres_saintes"
+	file = "les_terres_saintes.ogg"
+}
+
+music = {
+	name = "the_gael"
+	file = "the_gael.ogg"
+}
+
+music = {
+	name = "tri_martolod"
+	file = "tri_martolod.ogg"
+}
+
+music = {
+	name = "veillons_au_salut_de_l_empire"
+	file = "veillons_au_salut_de_l_empire.ogg"
+}
