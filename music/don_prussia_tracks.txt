@@ -21,4 +21,160 @@ song = {
     }
 }
 
+#####New Tracks - SF######
+
+song = {
+    name = "albanian_song_hakmarrje_rini"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+song = {
+    name = "all_hail_britannia"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+song = {
+    name = "an_arlach"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+song = {
+    name = "brian_blessed"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+song = {
+    name = "chevalier_mult_estes_guariz"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+song = {
+    name = "come_out_ye_black_and_tans"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+song = {
+    name = "greek_kids_singing"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+song = {
+    name = "house_of_the_rising_sun"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+song = {
+    name = "le_roy_engloys"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+song = {
+    name = "les_terres_saintes"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+song = {
+    name = "rolandskvadet"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+song = {
+    name = "the_gael"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+song = {
+    name = "tri_martolod"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
+song = {
+    name = "veillons_au_salut_de_l_empire"
+    
+    chance = {
+        modifier = {
+            factor = 2
+            NOT = { religion_group = christian }
+        }
+    }
+}
+
 ############

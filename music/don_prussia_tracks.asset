@@ -73,3 +73,8 @@ music = {
 	name = "veillons_au_salut_de_l_empire"
 	file = "veillons_au_salut_de_l_empire.ogg"
 }
+
+music = {
+	name = "rolandskvadet"
+	file = "rolandskvadet.ogg"
+}
